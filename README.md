@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrzenwiz
 - 👀 I’m interested in msatering the use of git.
 - 🌱 I’m currently learning git and ostree.
-- 💞️ I’m looking to collaborate on C and C++ development projects.
+- 💞️ I’m looking to collaborate on C and C++ development projects.  I also do a lot of Bash scripting and I am a devout FOSS advocate.
 - 📫 How to reach me email me @ mrzenwiz@gmail.com.
 
 <!---
